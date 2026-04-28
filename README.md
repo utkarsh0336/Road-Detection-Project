@@ -85,14 +85,6 @@ python lane_detection.py
 - Use **color masks** to detect yellow lanes better
 - Deploy in **embedded systems or mobile devices**
 
----
-
-## 👨‍💻 Author
-
-**Muhammad Rayan Shahid**  
-AI & ML Enthusiast | [LinkedIn](https://www.linkedin.com/in/muhammadrayanshahid/) | [GitHub](https://github.com/RayanAIX)
-
----
 
 ⭐ If you found this project useful, please consider starring the repository!
 
